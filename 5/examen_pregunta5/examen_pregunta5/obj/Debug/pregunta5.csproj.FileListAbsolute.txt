@@ -1,0 +1,12 @@
+C:\Users\ROMAN\AppData\Local\Temporary Projects\pregunta5\bin\Debug\pregunta5.exe.config
+C:\Users\ROMAN\AppData\Local\Temporary Projects\pregunta5\bin\Debug\pregunta5.exe
+C:\Users\ROMAN\AppData\Local\Temporary Projects\pregunta5\bin\Debug\pregunta5.pdb
+C:\Users\ROMAN\AppData\Local\Temporary Projects\pregunta5\obj\Debug\pregunta5.csprojResolveAssemblyReference.cache
+C:\Users\ROMAN\AppData\Local\Temporary Projects\pregunta5\obj\Debug\pregunta5.FormLogin.resources
+C:\Users\ROMAN\AppData\Local\Temporary Projects\pregunta5\obj\Debug\pregunta5.FormUsuario.resources
+C:\Users\ROMAN\AppData\Local\Temporary Projects\pregunta5\obj\Debug\pregunta5.Properties.Resources.resources
+C:\Users\ROMAN\AppData\Local\Temporary Projects\pregunta5\obj\Debug\pregunta5.csproj.GenerateResource.Cache
+C:\Users\ROMAN\AppData\Local\Temporary Projects\pregunta5\obj\Debug\pregunta5.exe
+C:\Users\ROMAN\AppData\Local\Temporary Projects\pregunta5\obj\Debug\pregunta5.pdb
+C:\Users\ROMAN\AppData\Local\Temporary Projects\pregunta5\obj\Debug\pregunta5.FormAdmin.resources
+C:\Users\ROMAN\AppData\Local\Temporary Projects\pregunta5\obj\Debug\pregunta5.propiedad.resources
